@@ -1,0 +1,31 @@
+.hdr{
+    display: flex;
+    gap: 16px;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+}
+h2{
+    color: blue;
+}
+img{
+    margin-top: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 4px;
+    box-shadow: 2px;
+    /* border: 2px solid ; */
+}
+.left{
+    display: flex;
+    /* border: 2px dotted; */
+}
+.right{
+  margin-top: 20px;
+}
+.right>a{
+  
+    /* padding: 20px; */
+    text-decoration: none;
+    color: black;
+    /* border: 2px solid red; */
+}
